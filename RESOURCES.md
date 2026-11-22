@@ -10,4 +10,4 @@ Primary course materials in the original local workspace, not republished here:
 - `Canvas/Chapter 11_complete.pdf`, especially p. 42: equity, shares, dividends.
 - `Canvas/Chapter 12_class.pdf`, especially final takeaways: cash flow statement and direct method. The class deck is the available version; future completed slides or final guide may expand or change emphasis.
 
-Examples and questions on the site are newly written for practice, informed by the supplied course material. No mastery is assumed. The slides use a US GAAP perspective where indicated; presentations can differ under IFRS.
+Older practice PDFs in `legacy/Exercise/2019 Spring/Chapter 8_Practice questions.pdf` through `Chapter 12_Practice questions.pdf` were checked for recurring question styles; they belong to a different offering and do not define this semester’s scope. Examples and questions on the site are newly written for practice, informed by the supplied course material. No mastery is assumed. The slides use a US GAAP perspective where indicated; presentations can differ under IFRS.
